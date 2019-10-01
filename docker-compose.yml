@@ -2,7 +2,7 @@ version: "2"
 
 services:
   nexus:
-    image: sonatype/nexus3
+    image: registry.cn-beijing.aliyuncs.com/meowbite/nexus:20191001
     volumes:
       - "nexus-data:/nexus-data"
     ports:
