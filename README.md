@@ -4,9 +4,13 @@
 ```shell script
 https://github.com/sonatype/docker-nexus3
 ```
-## 镜像名称
+## 镜像信息
 ```shell script
+
+https://cr.console.aliyun.com/repository/cn-beijing/meowbite/nexus/build
+
 registry.cn-beijing.aliyuncs.com/meowbite/nexus:20191001
+
 ```
 
 ## 使用方法
